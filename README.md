@@ -46,6 +46,7 @@ pip install pipenv
 
 pipenv install
 pipenv shell
+pip install django
 ```
 
 ### Configure the settings (connection to the database, connection to an SMTP server, and other options)
